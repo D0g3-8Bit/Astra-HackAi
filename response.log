@@ -1,0 +1,6 @@
+2024-08-16 10:15:51,943 - wirite_data - INFO - 68 - [extension.py:45] - finddatadata:ASTRA agent connected. How can i help you today?
+2024-08-16 10:16:02,943 - wirite_data - INFO - 68 - [extension.py:45] - finddatadata:$/bin/bash nmap -sn -v 192.168.47.0/24 -oG - | grep Up$
+2024-08-16 10:16:14,503 - wirite_data - INFO - 68 - [extension.py:45] - finddatadata:$/bin/bash nmap -p- -oG 192.168.47.2$
+2024-08-16 10:16:14,504 - wirite_data - INFO - 68 - [extension.py:45] - finddatadata:
+2024-08-16 10:16:33,505 - wirite_data - INFO - 68 - [extension.py:45] - finddatadata:$/bin/bash python exploit.py$
+2024-08-16 10:16:33,504 - wirite_data - INFO - 68 - [extension.py:45] - finddatadata:
